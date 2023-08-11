@@ -1,7 +1,7 @@
 # QR Code Generator
 
 <p align="center">
-  <img src="qr-code-generator-logo.png" alt="QR Code Generator Logo">
+  <img src="https://github.com/not-indro/QR_Code_Generator/blob/main/QR.png">
 </p>
 
 Generate customized QR codes effortlessly using this QR Code Generator built with Streamlit and Python. Design and customize QR codes for URLs, text, contact information, and more, all through an intuitive web interface.
