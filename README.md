@@ -16,7 +16,7 @@ Generate customized QR codes effortlessly using this QR Code Generator built wit
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/qr-code-generator.git`
+1. Clone the repository: `https://github.com/not-indro/QR_Code_Generator.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the app: `streamlit run app.py`
 
